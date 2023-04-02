@@ -55,7 +55,7 @@ Use the following details to configure the AWS provider configuration. Pay atten
 
 ```
 S3 Bucket: "3.devops.candidate.exam"
-Region: "eu-west-1"
+Region: "ap-south-1"
 Key: "<Your First Name>.<You Last Name>"
 ```
 
